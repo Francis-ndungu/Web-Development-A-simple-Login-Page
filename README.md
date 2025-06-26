@@ -2,7 +2,7 @@
 
 A clean, responsive login page with a glassmorphism effect, built with HTML and CSS.
 
-![Login Page Preview](./login-preview.JPG) 
+![Login Page Preview](./login-preview.JPG)
 
 ## Features
 
@@ -19,10 +19,3 @@ A clean, responsive login page with a glassmorphism effect, built with HTML and 
 - CSS3 (with modern properties like `backdrop-filter`)
 - [Boxicons](https://boxicons.com/) for icons
 - Google Fonts (Poppins)
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/login-page.git
